@@ -3,7 +3,7 @@
     {
       "name": "Home Assistant OS 17.1 (RPi 5)",
       "description": "Open source home automation that puts local control and privacy first.",
-      "url": "https://github.com/home-assistant/operating-system/releases/download/17.1/haos_rpi5-64-17.1.img.xz",
+      "url": "https://github.com/PowerLabs-be/power-pilot-operating-system/releases/download/17.1/haos_rpi5-64-17.1.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
       "extract_sha256": "db886eb00cc41cf18524ba643f7249d7f8ece8df76210e950f84097600d36ae5",
@@ -18,7 +18,7 @@
     {
       "name": "Home Assistant OS 17.1 (RPi 4/400)",
       "description": "Open source home automation that puts local control and privacy first.",
-      "url": "https://github.com/home-assistant/operating-system/releases/download/17.1/haos_rpi4-64-17.1.img.xz",
+      "url": "https://github.com/PowerLabs-be/power-pilot-operating-system/releases/download/17.1/haos_rpi4-64-17.1.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
       "extract_sha256": "9e063f2068e261f8d2113f100cc61d673d540bb439ded8bd771bd27cb352f68f",
@@ -33,7 +33,7 @@
     {
       "name": "Home Assistant OS 17.1 (RPi 3)",
       "description": "Open source home automation that puts local control and privacy first.",
-      "url": "https://github.com/home-assistant/operating-system/releases/download/17.1/haos_rpi3-64-17.1.img.xz",
+      "url": "https://github.com/PowerLabs-be/power-pilot-operating-system/releases/download/17.1/haos_rpi3-64-17.1.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
       "extract_sha256": "173afc6b4dd269fa28999f5c6e553e4ecb735876aaa1fe47e97a7e26238b5e03",
@@ -48,7 +48,7 @@
     {
       "name": "Home Assistant OS 17.1 (Yellow)",
       "description": "Home Assistant OS for Home Assistant Yellow. To be flashed directly to an NVMe drive or the Compute Module on Yellow (using rpiboot).",
-      "url": "https://github.com/home-assistant/operating-system/releases/download/17.1/haos_yellow-17.1.img.xz",
+      "url": "https://github.com/PowerLabs-be/power-pilot-operating-system/releases/download/17.1/haos_yellow-17.1.img.xz",
       "icon": "https://version.home-assistant.io/rpi-imager-yellow-installer.png",
       "extract_size": 2147483648,
       "extract_sha256": "b3d2965c9d9402402172b86bba7a59add9e3027cecca2b72afefb5713e2529cc",
