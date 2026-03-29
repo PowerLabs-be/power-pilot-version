@@ -49,7 +49,7 @@
     "4": "4.20",
     "3": "3.13"
   },
-  "ota": "https://os-artifacts.home-assistant.io/{version}/{os_name}_{board}-{version}.raucb",
+  "ota": "https://github.com/PowerLabs-be/power-pilot-operating-system/releases/download/{version}/{os_name}_{board}-{version}.raucb",
   "cli": "2026.03.0.dev1901",
   "dns": "2026.02.0.dev1102",
   "audio": "2026.02.0.dev1003",
