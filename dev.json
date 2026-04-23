@@ -1,7 +1,7 @@
 {
   "channel": "dev",
   "supervisor": "0.0.1",
-  "homeassistant": {
+  "power-pilot-core": {
     "default": "2026.4.0.dev202603210302",
     "qemux86-64": "2026.4.0.dev202603210302",
     "qemuarm-64": "2026.4.0.dev202603210302",
