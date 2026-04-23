@@ -1,7 +1,7 @@
 {
   "channel": "stable",
   "supervisor": "2026.03.2",
-  "homeassistant": {
+  "power-pilot-core": {
     "default": "2026.3.3",
     "qemux86": "2025.11.3",
     "qemux86-64": "2026.3.3",
