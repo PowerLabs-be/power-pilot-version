@@ -26,7 +26,7 @@
     "odroid-n2": "2026.3.3",
     "odroid-xu": "2025.11.3"
   },
-  "hassos": {
+  "ppos": {
     "ova": "17.1",
     "rpi3-64": "17.1",
     "rpi4-64": "17.1",
@@ -42,7 +42,7 @@
     "generic-aarch64": "17.1",
     "khadas-vim3": "17.1"
   },
-  "hassos-upgrade": {
+  "ppos-upgrade": {
     "15": "15.2",
     "14": "15.2",
     "13": "15.2",
