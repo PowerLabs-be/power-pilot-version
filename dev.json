@@ -1,6 +1,6 @@
 {
   "channel": "dev",
-  "supervisor": "2026.05.0.dev0401",
+  "supervisor": "2026.05.0.dev0501",
   "power-pilot-core": {
     "default": "2026.5.0.dev202604232255",
     "qemux86-64": "2026.5.0.dev202604232255",
